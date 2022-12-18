@@ -97,10 +97,22 @@
         
     },{
         "id": 2,
-        "tipo": "Shampoo",
+        "tipo": "Quimico",
         "título": "Alisa cabelo",
         "Valor": "50 reais",
         "Quantidade": "250ml"
+    },{
+        "id": 3,
+        "tipo": "Oleo",
+        "título": "Reparador de pontas",
+        "Valor": "70 reais",
+        "Quantidade": "50ml"
+    },{
+        "id": 4,
+        "tipo": "Pente",
+        "título": "Destrincha cabelo",
+        "Valor": "20 reais",
+        "Quantidade": "1"
     }
 
     ]
