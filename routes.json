@@ -1,0 +1,14 @@
+{
+    "GET /Servico": "GET/Servico/get",
+    "POST /Servico": "POST/Servico/create",
+    "PUT /Servico": "PUT/Servico/update",
+    "DELETE /Servico": "DELETE/Servico/delete",
+    "GET /Clientes": "GET/Clientes/get",
+    "POST /Clientes": "POST/Clientes/create",
+    "PUT /Clientes": "PUT/Clientes/update",
+    "DELETE /Clientes": "DELETE/Clientes/delete",
+    "GET /Produtos": "GET/Produtos/get",
+    "POST /Produtos": "POST/Produtos/create",
+    "PUT /Produtos": "PUT/Produtos/update",
+    "DELETE /Produtos": "DELETE/Produtos/delete"
+  }
